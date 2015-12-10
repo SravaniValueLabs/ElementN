@@ -8,8 +8,8 @@ execute=authenticated
     {"master": {"temperature": 22, "light": false}}, 
     {"kids": {"temperature": 22, "light": false}}, 
     {"living": {"temperature": 22, "light": false}}
-  ];
-  this.doors = [{"font":false}, {"garage":false}];
+  ] //Removed ;
+  this.doors = [{"font":false}, {"garage":false}] //Removed ;
 }
 
 HomeAutomationManager.prototype.getReport = function() {
