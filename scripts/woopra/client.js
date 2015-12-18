@@ -146,3 +146,5 @@ WoopraClient.prototype._parseBody = function(response) {
   
   return responseBodyStr;
 };   				   				   				   				   				   				   							
+
+//changed woopra
