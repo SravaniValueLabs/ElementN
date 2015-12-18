@@ -21,4 +21,5 @@ if(response.status == "200"){
 }else{
 	return "Ooops, we can't figure out your location!";
 }			                
-			     					
+			     				
+//Edited with auto-deploy no tag	
